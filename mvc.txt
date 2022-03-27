@@ -1,0 +1,3 @@
+Model - code for storage of data in database
+View - code for demostration of response to the user (in django views.py are responsible for this)
+Controller - code for routing of responses and processing (in django html templates are responsible for this)
